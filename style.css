@@ -1,0 +1,30 @@
+body {
+  margin: 200px auto auto auto;
+  text-align: center;
+  background-color: darkslategrey;
+}
+
+h1 {
+  background: linear-gradient(
+    300deg,
+    white 0%,
+    #fce3e3 25%,
+    #f7bebe 50%,
+    #bf3939 75%,
+    #b30505 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50px;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
